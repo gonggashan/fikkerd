@@ -90,5 +90,5 @@ fi
 pub_ip=$(curl -s ip.me)
 loc_ip=$(hostname -I | awk '{print $1}')
 
-echo "安装完成。请公网访问 http://$pub_ip:6780，初始密码为 123456"
-echo "安装完成。请内网访问 http://$loc_ip:6780，初始密码为 123456"
+echo "安装完成。请公网访问 http://$pub_ip:6780   初始密码为 123456"
+echo "安装完成。请内网访问 http://$loc_ip:6780   初始密码为 123456"
