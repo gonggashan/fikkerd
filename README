@@ -1,4 +1,4 @@
-wget https://github.com/NGXTDN/fikkerd/releases/download/3.76/fikkerd-3.7.6-linux-x86-64.tar.gz
+wget https://github.com/gonggashan/fikkerd/releases/download/fikkerd-3.7.6-linux-x86-64.tar.gz/fikkerd-3.7.6-linux-x86-64.tar.gz
 tar zxvf fikkerd-3.7.6-linux-x86-64.tar.gz
 cd fikkerd-3.7.6-linux-x86-64/
 chmod +x ./bin/fikkerd
